@@ -1,3 +1,5 @@
+Disclaimer: I know very little about docker-compose. This repo, if anything, is a place for me to try out docker-compose. Don't have trust that any of this works or that any of this is a best, or even good, practice. 
+
 # docker-compose-rails
 
 A starter app for using [Rails](http://rubyonrails.org/) with [docker-compose](https://docs.docker.com/compose/). The app is not very opinionated. It's shipped to use Postgres, but this can be easily changed.
